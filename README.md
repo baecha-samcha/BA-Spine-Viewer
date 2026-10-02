@@ -1,17 +1,21 @@
-# Blue Archive spine viewer
+> [!NOTE]
+> This repository is archived and is no longer actively maintained.
+> It is a fork of [asdfdsa12/BA-Spine-Viewer](https://github.com/asdfdsa12/BA-Spine-Viewer).
+
+# Blue Archive Spine Viewer
 
 This is a fan-made viewer for Blue Archive.
 
-# Surppoting viewer
+## Supported viewers
 
-* (Dummy & Legacy) Standing Illust
-* Memorial Lobby & Story Live2d
+* Standing illustrations (dummy and legacy)
+* Memorial Lobby and story Live2D
 
-# Feature
+## Features
 
-* Voice select (KR, JP, CN)
-* Control the spine parts transparency
-* Korean subtitle
+* Voice selection (KR, JP, CN)
+* Adjustable transparency for Spine parts
+* Korean subtitles
 * Spine image download
 
 All assets and resources are the property of © NEXON Games Co., Ltd. & NEXON Korea Corp.
